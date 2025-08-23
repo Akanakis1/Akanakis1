@@ -72,12 +72,14 @@ I help businesses **solve complex problems with data**, build **machine learning
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akanakis1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
 ## ✍️ Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
-
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Akanakis1)
