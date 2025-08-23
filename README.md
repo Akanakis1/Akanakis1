@@ -32,12 +32,12 @@ I utilize data to **solve complex problems**, build **machine learning models**,
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 **Data Science Libraries**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/matplotlib-%230C55A5.svg?style=for-the-badge&logo=plotly&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/matplotlib-%230C55A5.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/seaborn-%2308A5E0.svg?style=for-the-badge&logo=plotly&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white) 
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23F80000.svg?style=for-the-badge&logo=xgboost&logoColor=white)  
 
 **Business Intelligence**  
