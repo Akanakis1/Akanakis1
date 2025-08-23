@@ -46,11 +46,31 @@ I utilize data to **solve complex problems**, build **machine learning models**,
 
 ---
 
+## 📂 Featured Projects  
+
+🔹 [**London House Price Prediction**](https://github.com/Akanakis1/London_House_Price_Prediction) – Machine learning project on housing data, focused on regression modeling and feature engineering  
+
+🔹 [**Titanic Survival Prediction**](https://github.com/Akanakis1/Titanic_Machine_Learning_from_Disaster) – Classic ML classification challenge applying EDA, feature selection, and predictive modeling  
+
+---
+
 ## 📊 GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=Akanakis1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=Akanakis1&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akanakis1&theme=dark&hide_border=true&layout=compact)  
+
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akanakis1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akanakis1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akanakis1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akanakis1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akanakis1&theme=github_dark&utcOffset=3)
+[![Akanakis1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akanakis1&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Metrics](https://metrics.lecoq.io/Akanakis1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FAthens)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akanakis1&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
