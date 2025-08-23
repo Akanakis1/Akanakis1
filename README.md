@@ -66,29 +66,6 @@ I utilize data to **solve complex problems**, build **machine learning models**,
 </p>
 
 ---
-
-
-
-
-## 🔝 Top Contributed Repos  
-![](https://github-contributor-stats.vercel.app/api?username=Akanakis1&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
-
-## ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Akanakis1&icon=0&color=0" alt="Profile Visit Count"/>
-  </a>
-</p>
-
-
-
----
 ## ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
