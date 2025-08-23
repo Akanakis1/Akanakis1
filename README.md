@@ -41,7 +41,7 @@ I utilize data to **solve complex problems**, build **machine learning models**,
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23F80000.svg?style=for-the-badge&logo=xgboost&logoColor=white)  
 
 **Business Intelligence**  
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
 
 ---
