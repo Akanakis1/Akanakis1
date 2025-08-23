@@ -1,4 +1,4 @@
-# 💫 About Me:
+<img width="1100" height="220" alt="image" src="https://github.com/user-attachments/assets/dddd7768-1bbf-4477-b02a-53319def8a8d" /># 💫 About Me:
 🚀 I’m currently working on data-driven projects in finance, investing, and predictive modeling.<br>
 🤝 I want to collaborate on data analytics, machine learning, and business intelligence projects.<br>
 🛠️ I’m seeking help with advanced feature engineering and deploying ML models.<br>
@@ -17,7 +17,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)<br/>
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003_2_00x.png" width="200" />)
+![Matplotlib](<[img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003_2_00x.png](https://miro.medium.com/0*CBpRHPRCrWNx3ghp.jpeg)" width="200" />)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Seaborn&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)<br/>
