@@ -1,53 +1,86 @@
-# 👋 Hi, I’m Alexandros Kanakis  
+# 🐂 Alexandros Kanakis
+
+**`Career Growth`**  
 
 🚀 Data Scientist & Analyst passionate about **finance, investing, and predictive modeling**.  
-I help businesses **solve complex problems with data**, build **machine learning models**, and generate **insights that drive smarter decisions**.  
+I help businesses **solve complex problems with data**, build **machine learning models**, and generate **insights that drive smarter decisions**.
+
+## 💫 About Me
+- 🎓 **Economics (BSc) & Applied Economics (MSc):** Strong quantitative foundation for data analysis and business insight.  
+- 🧠 **Data Science & ML:** Built predictive models and feature engineering pipelines using Python, Pandas, NumPy, Scikit-learn, and XGBoost.  
+- 💼 **Finance & Business Analytics:** Delivered actionable insights on property prices, customer churn, and investment evaluation.  
+- ⚙️ **End-to-End Project Execution:** Experienced in data cleaning, analysis, model training, validation, and deployment pipelines.  
+- 🏆 **Projects & Impact:** Developed high-quality Kaggle projects and automated ML solutions with interpretable outputs.  
+- 🌱 **Currently exploring:** Time series forecasting, big data tools (Hive, Impala), and deep learning  
+- 💬 **Ask me about:** Python, data visualization, and financial modeling  
 
 ---
 
-## 💫 About Me  
-- 🔎 Working on **finance & business intelligence projects**  
-- 🤝 Open to collaboration in **data analytics, ML, and BI projects**  
-- 🛠️ Exploring **feature engineering** & **ML model deployment**  
-- 🌱 Learning **time series forecasting, big data tools (Hive, Impala), and deep learning**  
-- 💬 Ask me about **Python, data visualization, financial modeling**  
+## 🌐 Connect with Me
+<a href="https://www.linkedin.com/in/alexandros-kanakis/" target="_blank">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+</a>
+<a href="https://github.com/Akanakis1" target="_blank">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
+</a>
+<a href="https://www.kaggle.com/alexandroskanakis" target="_blank">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle"/>
+</a>
+<a href="mailto:alexandroskanakis@gmail.com" target="_blank">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
+</a>
+
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Programming & Productivity
+![Python](https://go-skill-icons.vercel.app/api/icons?i=python)
+![SQLite](https://go-skill-icons.vercel.app/api/icons?i=sqlite)
+![Excel](https://go-skill-icons.vercel.app/api/icons?i=excel)
+![R](https://go-skill-icons.vercel.app/api/icons?i=r)
+![Jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter)
+![Git](https://go-skill-icons.vercel.app/api/icons?i=git)
+
+### 🤖 Data Science & Machine Learning
+![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)
+![NumPy](https://go-skill-icons.vercel.app/api/icons?i=numpy)
+![Scikit-Learn](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" alt="XGBoost" width="60" height="60" style="vertical-align:middle;">
+![Matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)
+![Seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)
+![TensorFlow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow)
+![SciPy](https://go-skill-icons.vercel.app/api/icons?i=scipy)
+
+### 📊 Business Intelligence & Visualization
+![Power BI](https://go-skill-icons.vercel.app/api/icons?i=pbi)
+![Tableau](https://go-skill-icons.vercel.app/api/icons?i=tableau)
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandros-kanakis/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandroskanakis@gmail.com)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/alexandroskanakis) 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akanakis1)
+## 📂 Selected Projects  
 
----
-
-## 💻 Tech Stack  
-
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-
-**Data Science Libraries**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/matplotlib-%230C55A5.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/seaborn-%2308A5E0.svg?style=for-the-badge&logo=plotly&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white) 
-![XGBoost](https://img.shields.io/badge/XGBoost-%23F80000.svg?style=for-the-badge&logo=xgboost&logoColor=white) 
-
-**Business Intelligence**  
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
-
----
-
-## 📂 Featured Projects  
-
-🔹 [**London House Price Prediction**](https://github.com/Akanakis1/London_House_Price_Prediction) – Regression ML project with feature engineering  
-🔹 [**Titanic Survival Prediction**](https://github.com/Akanakis1/Titanic_Machine_Learning_from_Disaster) – Classification project using EDA and predictive modeling  
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/Akanakis1/Titanic_Machine_Learning_from_Disaster">
+    <img src="PROJECT_IMAGE_1" alt="Titanic Survival Prediction" width="100%">
+    <h4 align="center">Titanic Survival Prediction</h4>
+  </a>
+  <p align="center">
+    Classification project predicting passenger survival using ML. Applied preprocessing, feature engineering (titles, family size, cabin deck), and model evaluation with XGBoost. Automated pipeline for training and prediction.
+  </p>
+</td>
+<td width="50%">
+  <a href="https://github.com/Akanakis1/London_House_Price_Prediction">
+    <img src="PROJECT_IMAGE_2" alt="London House Price Prediction" width="100%">
+    <h4 align="center">London House Price Prediction</h4>
+  </a>
+  <p align="center">
+    Regression project predicting property sale prices. Applied geospatial and temporal feature engineering and built XGBoost models with GPU acceleration for accurate and interpretable predictions.
+  </p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -59,7 +92,6 @@ I help businesses **solve complex problems with data**, build **machine learning
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akanakis1&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Akanakis1&theme=dark&hide_border=true" height="160"/>
