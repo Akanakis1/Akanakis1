@@ -14,8 +14,6 @@ I help businesses **solve complex problems with data**, build **machine learning
 - 🌱 **Currently exploring:** Time series forecasting, big data tools (Hive, Impala), and deep learning  
 - 💬 **Ask me about:** Python, data visualization, and financial modeling  
 
----
-
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/alexandros-kanakis/" target="_blank">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
@@ -29,7 +27,6 @@ I help businesses **solve complex problems with data**, build **machine learning
 <a href="mailto:alexandroskanakis@gmail.com" target="_blank">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
 </a>
-
 
 ## 💻 Tech Stack
 
@@ -54,8 +51,6 @@ I help businesses **solve complex problems with data**, build **machine learning
 ### 📊 Business Intelligence & Visualization
 ![Power BI](https://go-skill-icons.vercel.app/api/icons?i=pbi)
 ![Tableau](https://go-skill-icons.vercel.app/api/icons?i=tableau)
-
----
 
 ## 📂 Selected Projects  
 
@@ -82,14 +77,10 @@ I help businesses **solve complex problems with data**, build **machine learning
 </tr>
 </table>
 
----
-
 ## 🔝 Top Contributed Repos  
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Akanakis1&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -101,14 +92,10 @@ I help businesses **solve complex problems with data**, build **machine learning
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanakis1&theme=dark&hide_border=true&layout=compact" height="160"/>
 </p>
 
----
-
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akanakis1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
----
 
 ## ✍️ Random Dev Quote  
 <p align="center">
