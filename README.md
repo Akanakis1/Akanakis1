@@ -1,6 +1,6 @@
 # 🐂 Alexandros Kanakis
 
-**`Career Growth`**  
+**` Career Growth`**  
 
 🚀 Data Scientist & Analyst passionate about **finance, investing, and predictive modeling**.  
 I help businesses **solve complex problems with data**, build **machine learning models**, and generate **insights that drive smarter decisions**.
