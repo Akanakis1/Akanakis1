@@ -1,20 +1,22 @@
-# 🐂 Alexandros Kanakis
+# Alexandros Kanakis
 
-**` Career Growth`**  
+## Junior Data Analyst | Business & Pricing Analytics
 
-🚀 Data Scientist & Analyst passionate about **finance, investing, and predictive modeling**.  
-I help businesses **solve complex problems with data**, build **machine learning models**, and generate **insights that drive smarter decisions**.
+I work with real-world data to support pricing, reporting, and operational decisions.
+My background combines applied economics with hands-on data analysis using Python, SQL, Excel, and Power BI.
 
-## 💫 About Me
-- 🎓 **Economics (BSc) & Applied Economics (MSc):** Strong quantitative foundation for data analysis and business insight.  
-- 🧠 **Data Science & ML:** Built predictive models and feature engineering pipelines using Python, Pandas, NumPy, Scikit-learn, and XGBoost.  
-- 💼 **Finance & Business Analytics:** Delivered actionable insights on property prices, customer churn, and investment evaluation.  
-- ⚙️ **End-to-End Project Execution:** Experienced in data cleaning, analysis, model training, validation, and deployment pipelines.  
-- 🏆 **Projects & Impact:** Developed high-quality Kaggle projects and automated ML solutions with interpretable outputs.  
-- 🌱 **Currently exploring:** Time series forecasting, big data tools (Hive, Impala), and deep learning  
-- 💬 **Ask me about:** Python, data visualization, and financial modeling  
+---
 
-## 🌐 Connect with Me
+## About
+
+- MSc Applied Economics | BSc Economics (Business Administration track)
+- Experience analyzing ERP, sales, and pricing data in a live business environment
+- Focus on clean data, clear logic, and measurable outcomes
+- Interested in junior data analyst, BI analyst, and operations analytics roles
+
+---
+
+## Contact
 <a href="https://www.linkedin.com/in/alexandros-kanakis/" target="_blank">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
 </a>
@@ -37,6 +39,7 @@ I help businesses **solve complex problems with data**, build **machine learning
 ![R](https://go-skill-icons.vercel.app/api/icons?i=r)
 ![Jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter)
 ![Git](https://go-skill-icons.vercel.app/api/icons?i=git)
+![Github](https://go-skill-icons.vercel.app/api/icons?i=github)
 
 ### 🤖 Data Science & Machine Learning
 ![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)
@@ -52,52 +55,41 @@ I help businesses **solve complex problems with data**, build **machine learning
 ![Power BI](https://go-skill-icons.vercel.app/api/icons?i=pbi)
 ![Tableau](https://go-skill-icons.vercel.app/api/icons?i=tableau)
 
-## 📂 Selected Projects  
+## Selected Projects
 
-<table>
-<tr>
-<td width="50%">
-  <a href="https://github.com/Akanakis1/Titanic_Machine_Learning_from_Disaster">
-    <img src="PROJECT_IMAGE_1" alt="Titanic Survival Prediction" width="100%">
-    <h4 align="center">Titanic Survival Prediction</h4>
-  </a>
-  <p align="center">
-    Classification project predicting passenger survival using ML. Applied preprocessing, feature engineering (titles, family size, cabin deck), and model evaluation with XGBoost. Automated pipeline for training and prediction.
-  </p>
-</td>
-<td width="50%">
-  <a href="https://github.com/Akanakis1/London_House_Price_Prediction">
-    <img src="PROJECT_IMAGE_2" alt="London House Price Prediction" width="100%">
-    <h4 align="center">London House Price Prediction</h4>
-  </a>
-  <p align="center">
-    Regression project predicting property sale prices. Applied geospatial and temporal feature engineering and built XGBoost models with GPU acceleration for accurate and interpretable predictions.
-  </p>
-</td>
-</tr>
-</table>
+### London House Price Prediction
+**Regression | Python, XGBoost**
 
-## 🔝 Top Contributed Repos  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Akanakis1&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+- Built an end-to-end regression pipeline (cleaning, feature engineering, geospatial clustering, modeling).
+- Added KMeans geo-clusters (lat/long) to capture location effects.
+- Achieved R² ≈ 0.65 and MAE ≈ £128K, outperforming baseline models.
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akanakis1&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Akanakis1&theme=dark&hide_border=true" height="160"/>
-</p>
+Repository: `London_House_Price_Prediction`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanakis1&theme=dark&hide_border=true&layout=compact" height="160"/>
-</p>
+---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akanakis1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+### Titanic: Machine Learning from Disaster
+**Classification | Python, scikit-learn**
 
-## ✍️ Random Dev Quote  
+- Engineered predictive features (title extraction, family size, cabin deck).
+- Compared multiple classifiers and selected the best-performing model.
+- Achieved 0.844 validation accuracy.
+
+Repository: `Titanic_Machine_Learning_from_Disaster`
+
+---
+
+### Digit Recognizer (MNIST)
+**Image Classification | Python**
+
+- Trained and evaluated multiple classifiers.
+- Best model achieved 97.2% validation accuracy.
+
+Repository: `Digit-Recognizer`
+
+---
+
+## Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
