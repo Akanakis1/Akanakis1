@@ -39,7 +39,6 @@ My background combines applied economics with hands-on data analysis using Pytho
 ![R](https://go-skill-icons.vercel.app/api/icons?i=r)
 ![Jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter)
 ![Git](https://go-skill-icons.vercel.app/api/icons?i=git)
-![Github](https://go-skill-icons.vercel.app/api/icons?i=github)
 
 ### 🤖 Data Science & Machine Learning
 ![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)
