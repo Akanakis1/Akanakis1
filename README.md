@@ -1,12 +1,7 @@
 # Alexandros Kanakis
 ## Junior Data Analyst | Python & Predictive Modeling
 
-I build reproducible, end-to-end analytics pipelines — from data cleaning 
-and feature engineering to model benchmarking and evaluation — using 
-Python, pandas, and XGBoost. My background combines applied economics 
-with hands-on machine learning practice on real-world and public datasets, 
-plus early professional exposure to enterprise data systems (ERP-based 
-invoicing and business administration) during an economics internship.
+I build reproducible, end-to-end analytics pipelines (from data cleaning and feature engineering to model benchmarking and evaluation) using Python, pandas, and XGBoost. My background combines applied economics with hands-on machine learning practice on real-world and public datasets, plus early professional exposure to enterprise data systems (ERP-based invoicing and business administration) during an economics internship.
 
 - MSc Applied Economics | BSc Economics (Business Administration track)
 - Focus on clean data, defensible methodology, and honest evaluation
@@ -63,8 +58,7 @@ Regression | Python, pandas, scikit-learn, XGBoost
   the model added real predictive value.
 - Cluster-level price statistics are computed strictly from the training 
   split to avoid target leakage into validation.
-- Best model (XGBoost): R² ≈ 0.65, MAE ≈ £128K on the validation set — 
-  a substantial improvement over all baselines.
+- Best model (XGBoost): R² ≈ 0.65, MAE ≈ £128K on the validation set, a substantial improvement over all baselines.
 
 Repository: [London_House_Price_Prediction](https://github.com/Akanakis1/London_House_Price_Prediction)
 
