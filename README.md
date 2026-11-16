@@ -13,7 +13,7 @@ I turn finance and ERP data into numbers teams can act on. MSc in Applied Econom
 ## What I have done
 
 - **Reconciliation.** Built an Excel till-close tool checked against the Capital ERP. A daily 15-minute close now takes under 5.
-- **Pricing.** Spread a year of warehouse rent and pallet costs across about 60 product codes, weighted by what was actually bought.
+- **Pricing.** Spread a year of warehouse rent and pallet costs across 30+ product codes, weighted by purchase volume.
 - **Research.** MSc thesis on 152 years of S&P 500 data (VAR, unit-root tests, predictive regressions, frequency-domain Granger causality): significant return predictability at the 1% level beyond 4 years. [Thesis](https://dspace.lib.uom.gr/handle/2159/30074)
 
 The first two come from my work in Thessaloniki, so the code is not public.
@@ -29,6 +29,13 @@ Regression | Python, pandas, scikit-learn, XGBoost
 - Cluster-level price statistics are computed from the training split only, to avoid target leakage.
 
 [Repository](https://github.com/Akanakis1/London_House_Price_Prediction)
+
+### Swiss Tourism Forecasting
+Time series | Python, statsmodels
+- Compares nine model families (seasonal naive, moving averages, ETS, ARMA, ARIMA, SARIMA, SARIMAX) on monthly Swiss hotel arrivals, with rolling-origin evaluation at 1 to 12 months ahead and a final test year that was never used for any choice.
+- With the pandemic months replaced by expected values, ETS and SARIMA beat the seasonal naive baseline at every horizon (Diebold-Mariano, p < 0.05). On the final test year no model beat the baseline, and the README reports that.
+
+[Repository](https://github.com/Akanakis1/Swiss_Tourism_Forecasting)
 
 ### Titanic: Machine Learning from Disaster
 Classification | Python, scikit-learn, XGBoost
@@ -59,4 +66,4 @@ Tableau Public: published dashboards on public datasets.
 
 ## Next up
 
-A SQL project (window functions and CTEs), a Power BI pricing dashboard on public data, and a portfolio-optimisation project in Python based on my MSc coursework.
+A SQL project (window functions and CTEs), a Power BI dashboard on public data, and Python rebuilds of more MSc projects (purchasing power parity, stock return predictability, portfolio optimisation).
