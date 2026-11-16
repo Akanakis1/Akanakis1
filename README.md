@@ -1,95 +1,62 @@
 # Alexandros Kanakis
-## Junior Data Analyst | Python & Predictive Modeling
 
-I build reproducible, end-to-end analytics pipelines (from data cleaning and feature engineering to model benchmarking and evaluation) using Python, pandas, and XGBoost. My background combines applied economics with hands-on machine learning practice on real-world and public datasets, plus early professional exposure to enterprise data systems (ERP-based invoicing and business administration) during an economics internship.
+**Junior Data Analyst | Finance, pricing and forecasting**
 
-- MSc Applied Economics | BSc Economics (Business Administration track)
-- Focus on clean data, defensible methodology, and honest evaluation
-- Interested in junior data analyst, BI analyst, and business/financial 
-  analyst roles
+Rotterdam, Netherlands. EU citizen, no visa sponsorship needed.
 
----
+I turn finance and ERP data into numbers teams can act on. MSc in Applied Economics (University of Macedonia), BSc in Economics (Aristotle University of Thessaloniki). I am looking for a junior Data Analyst, Financial Analyst or BI role in the Netherlands, ideally in banking, fintech or a data-driven finance team.
 
-## Contact
-
-<a href="https://www.linkedin.com/in/alexandros-kanakis/" target="_blank">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-</a>
-<a href="https://github.com/Akanakis1" target="_blank">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
-</a>
-<a href="https://www.kaggle.com/alexandroskanakis" target="_blank">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle"/>
-</a>
-<a href="mailto:alexandroskanakis@gmail.com" target="_blank">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail"/>
-</a>
+[LinkedIn](https://www.linkedin.com/in/alexandros-kanakis/) · [Kaggle](https://www.kaggle.com/alexandroskanakis) · [Tableau Public](https://public.tableau.com/app/profile/alexandros.kanakis/vizzes)
 
 ---
 
-## 💻 Tech Stack
+## What I have done
 
-### 🧑‍💻 Programming & Tools
-![Python](https://go-skill-icons.vercel.app/api/icons?i=python)
-![Jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter)
-![Git](https://go-skill-icons.vercel.app/api/icons?i=git)
+- **Reconciliation.** Built an Excel till-close tool checked against the Capital ERP. A daily 15-minute close now takes under 5.
+- **Pricing.** Spread a year of warehouse rent and pallet costs across about 60 product codes, weighted by what was actually bought.
+- **Research.** MSc thesis on 152 years of S&P 500 data (VAR, unit-root tests, predictive regressions, frequency-domain Granger causality): significant return predictability at the 1% level beyond 4 years. [Thesis](https://dspace.lib.uom.gr/handle/2159/30074)
 
-### 🤖 Data Science & Machine Learning
-![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas)
-![NumPy](https://go-skill-icons.vercel.app/api/icons?i=numpy)
-![Scikit-Learn](https://go-skill-icons.vercel.app/api/icons?i=scikitlearn)
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/XGBoost_logo.svg" alt="XGBoost" width="60" height="60" style="vertical-align:middle;">
-![Matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib)
-![Seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)
-
-### 📊 Coursework Exposure (not yet backed by a published project)
-![Power BI](https://go-skill-icons.vercel.app/api/icons?i=pbi)
-![Excel](https://go-skill-icons.vercel.app/api/icons?i=excel)
+The first two come from my work in Thessaloniki, so the code is not public.
 
 ---
 
-## Selected Projects
+## Public projects
 
 ### London House Price Prediction
 Regression | Python, pandas, scikit-learn, XGBoost
-- Built an end-to-end regression pipeline: cleaning, feature engineering, 
-  geospatial KMeans clustering, baseline benchmarking, model evaluation.
-- Benchmarked against mean/median/quantile/constant baselines to confirm 
-  the model added real predictive value.
-- Cluster-level price statistics are computed strictly from the training 
-  split to avoid target leakage into validation.
-- Best model (XGBoost): R² ≈ 0.65, MAE ≈ £128K on the validation set, a substantial improvement over all baselines.
+- Predicts London sale prices with location clustering and engineered features.
+- On a holdout set never used for fitting or selection: R² ≈ 0.65 and MAE ≈ £129K, against £394K for a mean baseline and £227K for a linear (Ridge) model on the same features.
+- Cluster-level price statistics are computed from the training split only, to avoid target leakage.
 
-Repository: [London_House_Price_Prediction](https://github.com/Akanakis1/London_House_Price_Prediction)
+[Repository](https://github.com/Akanakis1/London_House_Price_Prediction)
 
 ### Titanic: Machine Learning from Disaster
 Classification | Python, scikit-learn, XGBoost
-- Engineered predictive features (title extraction, cabin deck, family size).
-- Compared 6 classifiers on an identical validation split for a fair comparison.
-- Best model (XGBoost): 0.8444 validation accuracy.
+- Compares six classifiers with stratified 5-fold cross-validation. Imputation and scaling are learned inside each fold.
+- Best model, XGBoost: 0.841 ± 0.017 CV accuracy. The top two models are within one standard deviation of each other.
 
-Repository: [Titanic_Machine_Learning_from_Disaster](https://github.com/Akanakis1/Titanic_Machine_Learning_from_Disaster)
+[Repository](https://github.com/Akanakis1/Titanic_Machine_Learning_from_Disaster)
 
 ### Digit Recognizer (MNIST)
 Classification | Python, scikit-learn, XGBoost
-- Built a stratified train/validation pipeline comparing Logistic Regression, 
-  Decision Tree, and XGBoost.
-- Evaluated with accuracy and weighted F1 to avoid overfitting to a single metric.
-- Best model (XGBoost): 0.9724 accuracy, 0.9724 weighted F1.
+- Compares Logistic Regression, Decision Tree and XGBoost with a stratified train, validation and holdout split.
+- Best model, XGBoost: 0.9755 accuracy on a holdout set that was never used for fitting, early stopping or selection.
 
-Repository: [Digit-Recognizer](https://github.com/Akanakis1/Digit-Recognizer)
+[Repository](https://github.com/Akanakis1/Digit-Recognizer)
 
-### Data Visualization Portfolio
-Tableau Public
-- Published data visualizations covering sales, product, and geographic 
-  analysis using public datasets.
-
-Portfolio: [Tableau Public profile](https://public.tableau.com/app/profile/alexandros.kanakis/vizzes)
+### Data visualization
+Tableau Public: published dashboards on public datasets.
+[Tableau Public profile](https://public.tableau.com/app/profile/alexandros.kanakis/vizzes)
 
 ---
 
-## Random Dev Quote
+## Tools
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+- **Programming:** Python (pandas, NumPy, scikit-learn, XGBoost), SQL, R (basic)
+- **BI and spreadsheets:** Power BI, Tableau, Excel (pivot tables, macros, Solver)
+- **Econometrics:** EViews, time series (VAR, ARIMA, unit-root tests)
+- **Other:** Git, Jupyter, Capital ERP, Cactus ERP
+
+## Next up
+
+A SQL project (window functions and CTEs), a Power BI pricing dashboard on public data, and a portfolio-optimisation project in Python based on my MSc coursework.
